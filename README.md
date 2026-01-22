@@ -45,8 +45,6 @@ By allowing people seeking healthcare coverage to complete one application that 
 
 More information about the State of Alaska Medicaid Program can be found [here](http://dpaweb.hss.state.ak.us/manuals/MAGI2/magi.htm#t=800_introduction_to_medicaid%2F800_introduction_to_medicaid.htm).
 
-This work will ensure that DPA is able to comply with the requirements regarding ex-parte renewals in the ACA (42 CFR 435.916).
-
 ### How to respond or ask questions
 
 We've made every effort to allow for less burden in what we require from interested vendors. Although the RFP might seem to be pretty extensive, we're asking for questions that will better enable us to clarify parts of this RFP that might be unclear. please use the built in [GitHub Q/A](https://github.com/akhealth/RFP-IEP-Milestone2.5/issues) to ask questions, make suggestions, or provide feedback. We intend to review feedback and make RFP amendments and updates as needed.
