@@ -15,7 +15,7 @@ body:
   - type: textarea
     id: Section of RFP documents
     attributes:
-      label: Section of RFP documents
+      label: Section-of-RFP-documents
       description: please be specific about the section of the RFP documents you have a question or comment about, if applicable
       placeholder: RFP Section
     validations:
