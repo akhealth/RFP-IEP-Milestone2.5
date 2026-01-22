@@ -23,8 +23,8 @@ body:
   - type: textarea
     id: specific_question
     attributes:
-      label: Specific Question or Comment
-      description: ask away
-	 validations:
+     label: Specific Question or Comment
+     description: ask away
+    validations:
       required: true
  
