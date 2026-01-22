@@ -276,7 +276,7 @@ Offerors should carefully review this solicitation for defects and questionable 
 
 ## Sec. 1.06 Questions Prior to Deadline for Receipt of Proposals
 
-Questions or comments regarding this RFP shall be submitted as issues within this RFP’s GitHub repository no later than **4:00 PM Alaska Standard Time on March 9th, 2026,** to allow the State sufficient time to respond. All questions and comments will be publicly available. Please add yourself as a watcher on the [Milestone 2.5 RFP GitHub Repository](https://github.com/akhealth/RFP-IES-Milestone2.5/issues) if your firm would like updates about changes and comments. Questions or comments received after the required deadline may not be answered.
+Questions or comments regarding this RFP shall be submitted as issues within this RFP’s GitHub repository no later than **4:00 PM Alaska Standard Time on March 9th, 2026,** to allow the State sufficient time to respond. All questions and comments will be publicly available. Please add yourself as a watcher on the [Milestone 2.5 RFP GitHub Repository](LINK) if your firm would like updates about changes and comments. Questions or comments received after the required deadline may not be answered.
 All questions must be in writing and directed to the procurement officer at least ten days before the deadline for receipt of proposals. 
 
 Two types of questions generally arise; responses are posted to the project GitHub site:
@@ -833,9 +833,9 @@ The contractor must provide, on an annual basis, a Type 2 Statement on Standards
 
 ## Sec. 3.15 Subcontractors
 
-Subcontractors may be used to perform work under this contract. If an offeror intends to use subcontractors, the offeror must complete [Submittal Form F – Subcontractors](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/01%20Submittal%20Forms%20A-F.docx) identified in [Sec. 4.02 Special Formatting Requirements](#sec-402-special-formatting-requirements) of this RFP.
+Subcontractors may be used to perform work under this contract. If an offeror intends to use subcontractors, the offeror must complete [Submittal Form F](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/01%20Submittal%20Forms%20A-F.docx) identified in [Sec. 4.02 Special Formatting Requirements](#sec-402-special-formatting-requirements) of this RFP.
 An offeror's failure to provide this information with their proposal may cause the state to consider their proposal non-responsive and reject it. 
-Subcontractor experience shall not be considered in determining whether the offeror meets the requirements set forth in Submittal Form E [Sec. 4.07 Mandatory Requirements (Submittal Form E)](#sec-407-mandatory-requirements-submittal-form-e).
+Subcontractor experience shall not be considered in determining whether the offeror meets the requirements set forth in [Submittal Form E](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/01%20Submittal%20Forms%20A-F.docx).
 If a proposal with subcontractors is selected, the state may require a signed written statement from each subcontractor that clearly verifies the subcontractor is committed to providing the good or services required by the contract.
 The substitution of one subcontractor for another may be made only at the discretion and prior written approval of the project director or procurement officer.
 Note that if the subcontractor will not be performing work within Alaska, they will not be required to hold an Alaska business license. 
@@ -1101,8 +1101,8 @@ The state will use the following steps to evaluate and prioritize proposals:
 3\)	The Submittal Forms, from each responsive proposal, will be sent to the PEC. No cost information will be shared or provided to the PEC.
 4\)	The PEC will independently evaluate and score the documents based on the degree to which they meet the stated evaluation criteria.
 5\)	After independent scoring, the PEC will have a meeting, chaired by the procurement officer, where the PEC may have a group discussion prior to finalizing their scores. 
-6\)	The evaluators will submit their final individual scores to the procurement officer, who will then compile the scores and calculate awarded points as set out in [Sec. 4.03 Scoring Method and Calculation](#sec-403-scoring-method-and-calculation).
-7\)	The procurement officer will calculate scores for cost proposals as set out in [Sec. 4.07 Contract Cost Proposal](#sec-407-contract-cost-cost-proposal) and add those scores to the awarded points.
+6\)	The evaluators will submit their final individual scores to the procurement officer, who will then compile the scores and calculate awarded points as set out in [Sec. 5.03 Scoring Method and Calculation](#sec-503-scoring-method-and-calculation).
+7\)	The procurement officer will calculate scores for cost proposals as set out in [Sec. 5.07 Contract Cost (Cost Proposal)](#sec-507-contract-cost-cost-proposal) and add those scores to the awarded points.
 8\)	The procurement officer may prioritize the proposals, and the state may conduct interviews with the top-rated offerors.
 9\)	The PEC will evaluate and score the interviews, and the procurement officer will compile the final scores.
 10\) The state may then conduct contract negotiations with the most advantageous offeror and award a contract if the negotiations are successful. 
@@ -1467,6 +1467,7 @@ CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/mai
 The BAA can be found in this repository at
 [Attachment 9 -
 CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/09%20BAA.pdf)
+
 
 
 
