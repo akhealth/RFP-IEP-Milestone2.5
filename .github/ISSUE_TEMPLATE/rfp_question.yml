@@ -19,7 +19,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: specific_question
+    id: Specific Question
     attributes:
      label: Specific Question or Comment
      description: ask away
