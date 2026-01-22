@@ -2,7 +2,7 @@ name: RFP Question
 description: Ask a Question about the Milestone 2.5 RFP
 title: "[Question]: "
 labels: ["Question"]
-type: Question
+type: form
 body:
   - type: input
     id: contact
