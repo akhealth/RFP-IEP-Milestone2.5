@@ -4,7 +4,7 @@ title: "[Question]: "
 labels: ["Question"]
 type: Question
 body:
-  - type: Name and affiliation
+  - type: input
     id: contact
     attributes:
       label: Contact Details
@@ -24,7 +24,7 @@ body:
     id: Specific Question or Comment
     attributes:
       label: Specific Question or Comment
-      description: ask away!
+      description: ask away
 	 validations:
       required: true
  
