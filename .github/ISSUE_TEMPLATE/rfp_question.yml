@@ -11,7 +11,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: Section of RFP documents
+    id: Section_of_RFP_documents
     attributes:
       label: Section of RFP documents
       description: please be specific about the section of the RFP documents you have a question or comment about, if applicable
@@ -19,7 +19,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: Specific Question
+    id: Specific_Question
     attributes:
      label: Specific Question or Comment
      description: ask away
