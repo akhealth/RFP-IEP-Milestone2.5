@@ -47,9 +47,9 @@ More information about the State of Alaska Medicaid Program can be found [here](
 
 This work will ensure that DPA is able to comply with the requirements regarding ex-parte renewals in the ACA (42 CFR 435.916).
 
-### How to respond
+### How to respond or ask questions
 
-We've made every effort to allow for less burden in what we require from interested vendors.  Although the RFP might seem to be pretty extensive, we're asking for limited [targeted responses](https://github.com/AlaskaDHSS/RFP-ARIES-AutomatedRenewals/blob/main/ARIES_AUTORENEWAL_RFP.md#sec-401-proposal-format-and-content) and believe we'll learn more about your team's approach and offer as part of your verbal presentation.  As discussed in the RFP, we see this presentation to be free flowing vs. formal so that our technical evaluation team can ask questions based on what they've read or heard from your team.
+We've made every effort to allow for less burden in what we require from interested vendors. Although the RFP might seem to be pretty extensive, we're asking for questions that will better enable us to clarify parts of this RFP that might be unclear. please use the built in [GitHub Q/A](https://github.com/akhealth/RFP-IEP-Milestone2.5/issues) to ask questions, make suggestions, or provide feedback. We intend to review feedback and make RFP amendments and updates as needed.
 
 ### Budget
 
