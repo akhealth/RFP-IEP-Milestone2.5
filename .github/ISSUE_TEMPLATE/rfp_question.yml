@@ -22,7 +22,7 @@ body:
     id: Specific_Question
     attributes:
      label: Specific Question or Comment
-     description: ask away
+     description: ask away!
     validations:
       required: true
  
