@@ -1,0 +1,30 @@
+name: RFP Question
+description: Ask a Question about the Milestone 2.5 RFP
+title: "[Question]: "
+labels: ["Question"]
+type: Question
+body:
+  - type: Name and affiliation
+    id: contact
+    attributes:
+      label: Contact Details
+      description: please provide information about your job/role in the acquisition process as well as your organization
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: textarea
+    id: Section of RFP documents
+    attributes:
+      label: Section of RFP documents
+      description: please be specific about the section of the RFP documents you have a question or comment about, if applicable
+      placeholder: RFP Section
+    validations:
+      required: true
+  - type: textarea
+    id: Specific Question or Comment
+    attributes:
+      label: Specific Question or Comment
+      description: ask away!
+	 validations:
+      required: true
+ 
