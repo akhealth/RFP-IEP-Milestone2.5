@@ -417,7 +417,6 @@ This Request for Proposal (RFP) is seeking a vendor to develop and support the e
 As stated above, the Department of Health (DOH) is the state agency designated to administer the Alaska Medicaid and SNAP programs, which include:
 - Medicaid
 - Denali KidCare 
-- Chronic and Acute Medical Assistance
 - Supplemental Nutrition Assistance Program (SNAP)
 
 The Division of Public Assistance (DPA) is responsible for determining the eligibility of individuals and families in need of Medicaid benefits.
@@ -1467,6 +1466,7 @@ CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/mai
 The BAA can be found in this repository at
 [Attachment 9 -
 CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/09%20BAA.pdf)
+
 
 
 
