@@ -385,7 +385,9 @@ DPA is currently working to de-couple and extend ARIES through the use of micros
 
 **Integrated Eligibility Platform (IEP)**
 
-DPA is developing a modern, Integrated Eligibility Platform (IEP) that enables staff to more efficiently issue correct and timely benefits to Alaskans who need help meeting their basic needs. While the IEP encompasses several systems, each with a specific purpose, the ARIES system is the cornerstone. DPA intends to leverage and extend the ARIES system to develop a fully Integrated Eligibility Platform (IEP), that supports eligibility determination and benefit administration for all public assistance programs, as well as integration/interoperability across the systems within the [integrated eligibility platform](media/iep_architecture.jpg).
+DPA is developing a modern, Integrated Eligibility Platform (IEP) that enables staff to more efficiently issue correct and timely benefits to Alaskans who need help meeting their basic needs. While the IEP encompasses several systems, each with a specific purpose, the ARIES system is the cornerstone. DPA intends to leverage and extend the ARIES system to develop a fully Integrated Eligibility Platform (IEP), that supports eligibility determination and benefit administration for all public assistance programs, as well as integration/interoperability across the systems within the integrated eligibility platform.
+
+![The Architecture](media/iep_architecture.png)
 
 Utilizing agile development methods and modular procurements, DPA has the goal of implementing an eligibility system that not only meets state and federal standards, but is user friendly for clients, eligibility staff, and technical staff.
 DPA has moved away from a "big bang" waterfall acquisitions process to a more modular approach, emphasizing user centered design, agile product development, and DevSecOps practices. We integrate user experience, security, and privacy into all our development work. More information about the Alaska E&E Modernization project can be found in this [repository](https://github.com/Akhealth/EIS-Modernization) (be sure to add yourself as a watcher on the overall eligibility modernization repository to automatically get updates about changes and upcoming procurements). The goal of this approach is twofold: 
@@ -1466,6 +1468,7 @@ CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/mai
 The BAA can be found in this repository at
 [Attachment 9 -
 CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/09%20BAA.pdf)
+
 
 
 
