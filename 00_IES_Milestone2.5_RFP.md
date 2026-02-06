@@ -214,7 +214,7 @@ procurement officer may result in the rejection of your offer.
 	
 ### Section 7. ATTACHMENTS
 
-[Sec. 7.01 Attachment 1 -- Submittal Forms A - H](#sec-701-attachment-1----submittal-forms-a---h)
+[Sec. 7.01 Attachment 1 -- Submittal Forms A - F](#sec-701-attachment-1----submittal-forms-a---f)
 
 [Sec. 7.02 Attachment 2 -- DOH IT Contractual Requirements](#sec-702-attachment-2----doh-it-contractual-requirements)
 
@@ -1422,10 +1422,10 @@ All offerors will be notified of any protest. The review of protests, decisions 
  
 # SECTION 7. ATTACHMENTS
 
-## Sec. 7.01 Attachment 1 -- Submittal Forms A - H
+## Sec. 7.01 Attachment 1 -- Submittal Forms A - F
 
-Submittal Forms A - H can be found in this repository at [Attachment 1 -
-Submittal Forms A - H](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/01%20Submittal%20Forms%20A-F.docx)
+Submittal Forms A - F can be found in this repository at [Attachment 1 -
+Submittal Forms A - F](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/01%20Submittal%20Forms%20A-F.docx)
 
 ## Sec. 7.02 Attachment 2 -- DOH IT Contractual Requirements
 
@@ -1468,6 +1468,7 @@ CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/mai
 The BAA can be found in this repository at
 [Attachment 9 -
 CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/09%20BAA.pdf)
+
 
 
 
