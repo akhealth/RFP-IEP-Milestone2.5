@@ -1120,9 +1120,8 @@ Proposals will be evaluated based on their overall value to state, considering b
 | **Qualifications Criteria** | **Weight** |
 |------|------|
 | Experience and Qualifications (Submittal Form B)   | 200       |
-| Technical Understanding and Approach (Submittal Form C) | 150   |
-| Approach to User Interface and User Experience (Submittal Form D) | 100 |
-| Product Management Approach (Submittal Form E)     | 50        |
+| Technical Understanding and Approach (Submittal Form C) | 200   |
+| Product Management Approach (Submittal Form E)     | 100        |
 | **Total**                                          | **500**   |
 
 | **Cost Criteria** | **Weight** |
@@ -1468,6 +1467,7 @@ CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/mai
 The BAA can be found in this repository at
 [Attachment 9 -
 CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/09%20BAA.pdf)
+
 
 
 
