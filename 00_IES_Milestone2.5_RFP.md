@@ -8,7 +8,7 @@
 
 RFP **2026-1600-0141**
 
-Issued March 24, 2025
+Issued on January 22, 2026
 
 The Alaska Department of Health (DOH) is soliciting proposals for
 qualified contractors to support the continuing modernization
@@ -1468,6 +1468,7 @@ CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/mai
 The BAA can be found in this repository at
 [Attachment 9 -
 CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/09%20BAA.pdf)
+
 
 
 
