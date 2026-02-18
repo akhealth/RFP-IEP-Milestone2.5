@@ -264,7 +264,7 @@ Approval or continuation of a contract resulting from this RFP is contingent upo
 
 ## Sec. 1.03 Deadline for Receipt of Proposals
 
-Proposals must be received no later than **4:00pm** prevailing Alaska Time on **March 9, 2026**. Late proposals or amendments will be disqualified and not opened or accepted for evaluation. 
+Proposals must be received no later than **4:00pm** prevailing Alaska Time on **March 23, 2026**. Late proposals or amendments will be disqualified and not opened or accepted for evaluation. 
 
 ## Sec. 1.04 Mandatory Requirements
 
@@ -1468,6 +1468,7 @@ CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/mai
 The BAA can be found in this repository at
 [Attachment 9 -
 CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/09%20BAA.pdf)
+
 
 
 
