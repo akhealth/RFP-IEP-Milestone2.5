@@ -8,7 +8,7 @@
 
 RFP **2026-1600-0141**
 
-Issued March 24, 2025
+Issued on January 22, 2026
 
 The Alaska Department of Health (DOH) is soliciting proposals for
 qualified contractors to support the continuing modernization
