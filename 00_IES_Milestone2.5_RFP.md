@@ -276,7 +276,7 @@ Offerors should carefully review this solicitation for defects and questionable 
 
 ## Sec. 1.06 Questions Prior to Deadline for Receipt of Proposals
 
-Questions or comments regarding this RFP shall be submitted as issues within this RFP’s GitHub repository no later than **4:00 PM Alaska Standard Time on March 9th, 2026,** to allow the State sufficient time to respond. All questions and comments will be publicly available. Please add yourself as a watcher on the Milestone 2.5 RFP GitHub Repository if your firm would like updates about changes and comments. Questions or comments received after the required deadline may not be answered.
+Questions or comments regarding this RFP shall be submitted as issues within this RFP’s GitHub repository no later than **4:00 PM Alaska Standard Time on March 13th, 2026,** to allow the State sufficient time to respond. All questions and comments will be publicly available. Please add yourself as a watcher on the Milestone 2.5 RFP GitHub Repository if your firm would like updates about changes and comments. Questions or comments received after the required deadline may not be answered.
 All questions must be in writing and directed to the procurement officer at least ten days before the deadline for receipt of proposals. 
 
 Two types of questions generally arise; responses are posted to the project GitHub site:
@@ -310,7 +310,7 @@ RFP schedule set out herein represents the state’s best estimate of the schedu
 | **Activity**| **Time**| **Date**|
 |------|------|------|
 | Issue Date / RFP Released               |                     | **January 22, 2026**                      |
-| Deadline to Submit Questions            |  **4:00pm**                   | **March 9, 2026**                       |
+| Deadline to Submit Questions            |  **4:00pm**                   | **March 13, 2026**                       |
 | Deadline for Receipt of Proposals / Proposal Due Date | **4:00pm** | **March 23, 2026**                        |
 | Proposal Evaluations Start              |                     | **Week of March 23, 2026**                       |
 | Interviews Complete                     |                     | **Week of April 13, 2026**                       |
@@ -1468,6 +1468,7 @@ CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/mai
 The BAA can be found in this repository at
 [Attachment 9 -
 CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/09%20BAA.pdf)
+
 
 
 
