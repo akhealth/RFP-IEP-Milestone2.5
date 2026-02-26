@@ -12,7 +12,7 @@ times are Alaska Prevailing Time**.
 
 -   Issue RFP on January 22, 2026
 
--   Deadline for receipt of questions at 4:00pm on March 9, 2026
+-   Deadline for receipt of questions at 4:00pm on March 13, 2026
 
 -   Deadline for receipt of proposals at 4:00pm on March 23, 2026
 
