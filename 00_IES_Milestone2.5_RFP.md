@@ -264,7 +264,7 @@ Approval or continuation of a contract resulting from this RFP is contingent upo
 
 ## Sec. 1.03 Deadline for Receipt of Proposals
 
-Proposals must be received no later than **4:00pm** prevailing Alaska Time on **March 9, 2026**. Late proposals or amendments will be disqualified and not opened or accepted for evaluation. 
+Proposals must be received no later than **4:00pm** prevailing Alaska Time on **March 23, 2026**. Late proposals or amendments will be disqualified and not opened or accepted for evaluation. 
 
 ## Sec. 1.04 Mandatory Requirements
 
@@ -863,14 +863,7 @@ DOH envisions the need for the following roles and skillsets as part of the cont
 | **Program Manager** | The program manager oversees and coordinates multiple related projects to achieve broader organizational goals. The focus is on the strategic direction of a program, ensuring alignment with business objectives and successful delivery of outcomes. While not directly managing individual projects, the program manager provides oversight, guidance, and support to project managers. |
 | **Product Manager** | Responsible for the product's overall impact on the business; focus is on product development and strategy. Collaborates with teams across the organization to create products that meet customer needs and align with the product's vision. The product manager uses strategic thinking, data analytics, and communication skills to prioritize initiatives, set goals, and define features. |
 | **Project Manager** | Responsible for planning (in accordance with project goals, timelines and budget), overseeing development (including resource management), delivery and deployment of software, and overall communication—keeping stakeholders updated on project progress and seeking their input throughout the project lifecycle. |
-| **Scrum Master** | Responsible for facilitating communication between internal and external groups, agile coaching, leading healthy conflicts, removing impediments, keeping the product backlog up to date, and leading sprint rituals (stand-ups, planning, review/retro, etc.). |
-| **Data Architect** | This senior-level role combines deep technical knowledge with strong business acumen to ensure the organization’s hardware, software, and networks function efficiently and meet strategic goals. The Data Architect designs, creates, and manages the data infrastructure—including data models, databases, data lakes, and data warehouses—ensuring efficient, secure, and compliant data storage and access. Key responsibilities include analyzing business needs to create data blueprints, developing governance standards, optimizing data systems, and collaborating with data engineers and other stakeholders. |
 | **Data Engineers** | Responsible for designing, building, and maintaining scalable data systems and pipelines to collect, store, and process data for analysis and reporting. Key responsibilities include developing data infrastructure like data lakes and warehouses, ensuring data quality and security, collaborating with vendors and analysts, and optimizing data accessibility for insights. |
-| **Business Analyst** | Business Analysts (BAs) assess and improve processes and systems by analyzing data and identifying improvement opportunities. Responsibilities include: <br>• **Data Analysis:** Gather and analyze data (budgets, enrollments, forecasts) to identify issues and solutions. <br>• **Business Improvement:** Test processes, identify automation opportunities, and model business workflows. <br>• **Communication:** Present findings clearly, simplifying technical information for stakeholders. |
-| **Security Consultant** | The agile Security Consultant helps the project/state stay ahead of threats, prioritize risks, and ensure compliance with regulations. Key principles include: <br>• Applying risk-management throughout the lifecycle <br>• Automating security measures (vulnerability scanning, IDS, log analysis) <br>• Encouraging collaboration to promote security awareness and ownership |
-| **Quality Assurance** | The QA lead coordinates all testing activities to ensure releases meet standards and usability requirements. Responsibilities include: <br>• Assisting in defining and clarifying user stories <br>• Defining acceptance criteria <br>• Designing automated, manual, and user tests |
-
-Note that one person could meet multiple skillset suggestions. Alternatively, multiple people could be needed to support each of these listed skillsets.
 
 **Desired Skills and Knowledge**
 
@@ -1120,9 +1113,8 @@ Proposals will be evaluated based on their overall value to state, considering b
 | **Qualifications Criteria** | **Weight** |
 |------|------|
 | Experience and Qualifications (Submittal Form B)   | 200       |
-| Technical Understanding and Approach (Submittal Form C) | 150   |
-| Approach to User Interface and User Experience (Submittal Form D) | 100 |
-| Product Management Approach (Submittal Form E)     | 50        |
+| Technical Understanding and Approach (Submittal Form C) | 200   |
+| Product Management Approach (Submittal Form D)     | 100        |
 | **Total**                                          | **500**   |
 
 | **Cost Criteria** | **Weight** |
@@ -1468,6 +1460,7 @@ CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/mai
 The BAA can be found in this repository at
 [Attachment 9 -
 CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/09%20BAA.pdf)
+
 
 
 
