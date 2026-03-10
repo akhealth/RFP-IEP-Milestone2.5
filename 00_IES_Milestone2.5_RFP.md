@@ -311,11 +311,11 @@ RFP schedule set out herein represents the state’s best estimate of the schedu
 |------|------|------|
 | Issue Date / RFP Released               |                     | **January 22, 2026**                      |
 | Deadline to Submit Questions            |  **4:00pm**                   | **March 13, 2026**                       |
-| Deadline for Receipt of Proposals / Proposal Due Date | **4:00pm** | **March 23, 2026**                        |
-| Proposal Evaluations Start              |                     | **Week of March 23, 2026**                       |
-| Interviews Complete                     |                     | **Week of April 13, 2026**                       |
-| Notice of Intent to Award               |                     | **Week of April 20, 2026**                       |
-| Request for CMS Approval Sent           |                     | **Week of April 20, 2026**                       |
+| Deadline for Receipt of Proposals / Proposal Due Date | **12:00pm** | **April 13, 2026**                        |
+| Proposal Evaluations Start              |                     | **Week of April 13, 2026**                       |
+| Interviews Complete                     |                     | **May 1, 2026**                       |
+| Notice of Intent to Award               |                     | **Week of May 11, 2026**                       |
+| Request for CMS Approval Sent           |                     | **Week of May 11, 2026**                       |
 | Contract Issued for Review and Signature|                     | **July 2026**                      |
 | Contract Start Date                     |                     | **July 2026**                       |
 
@@ -789,7 +789,7 @@ The procurement officer will not provide the file until receipt of the completed
 
 ## Sec. 3.07 Information Technology (IT) Related Contractual Requirements
 
-Other specific DOH IT-related contractual requirements are provided in [Submittal Form G](hhttps://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/02%20Submittal%20Form%20G%20DOH%20Contractual%20Requirements%20-%20SaaS%20Solutions.xlsx). The offeror must complete this spreadsheet in accordance with the provided instructions; space is provided to provide both choose a response (see the drop-down list) and provide further explanation.
+Other specific DOH IT-related contractual requirements are provided in [Submittal Form G](hhttps://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/02%20Submittal%20Form%20G%20DOH%20Contractual%20Requirements%20-%20SaaS%20Solutions.xlsx). The offeror must complete this spreadsheet in accordance with the provided instructions; space is provided to provide both choose a response (see the drop-down list) and provide further explanation. Please complete either the Alaska-Hosted technical requirement tab or the SaaS technical requirement tab. Both are not required.
 Note that in some cases, certain initial elements of the HIPAA Security Assessment indicated in [Sec. 3.05 HIPAA Security Assessment Requirements](#sec-305-hipaa-security-assessment-requirements) may be completed during the negotiation phase based on the offeror’s response to these contractual requirements.
 
 ## Sec. 3.08 Contract Term and Work Schedule
@@ -1460,6 +1460,7 @@ CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/mai
 The BAA can be found in this repository at
 [Attachment 9 -
 CMS Required Outcomes](https://github.com/akhealth/RFP-IEP-Milestone2.5/blob/main/09%20BAA.pdf)
+
 
 
 
