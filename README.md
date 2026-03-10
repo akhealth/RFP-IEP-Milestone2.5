@@ -14,11 +14,11 @@ times are Alaska Prevailing Time**.
 
 -   Deadline for receipt of questions at 4:00pm on March 13, 2026
 
--   Deadline for receipt of proposals at 4:00pm on March 23, 2026
+-   Deadline for receipt of proposals at 12:00pm on April 13, 2026
 
--   Proposal Evaluation Committee complete evaluation week of April 13, 2026
+-   Proposal Evaluation Committee complete evaluation week of April 27, 2026
 
--   State of Alaska issues Notice of Intent to Award a Contract by week of April 20, 2026
+-   State of Alaska issues Notice of Intent to Award a Contract by week of May 11, 2026
 
 -   State of Alaska issues contract on July 2026
 
