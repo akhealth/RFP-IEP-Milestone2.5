@@ -264,7 +264,7 @@ Approval or continuation of a contract resulting from this RFP is contingent upo
 
 ## Sec. 1.03 Deadline for Receipt of Proposals
 
-Proposals must be received no later than **12:00pm** prevailing Alaska Time on **April 13, 2026**. Late proposals or amendments will be disqualified and not opened or accepted for evaluation. 
+Proposals must be received no later than **12:00pm** prevailing Alaska Time on **April 20, 2026**. Late proposals or amendments will be disqualified and not opened or accepted for evaluation. 
 
 ## Sec. 1.04 Mandatory Requirements
 
@@ -311,7 +311,7 @@ RFP schedule set out herein represents the state’s best estimate of the schedu
 |------|------|------|
 | Issue Date / RFP Released               |                     | **January 22, 2026**                      |
 | Deadline to Submit Questions            |  **4:00pm**                   | **March 13, 2026**                       |
-| Deadline for Receipt of Proposals / Proposal Due Date | **12:00pm** | **April 13, 2026**                        |
+| Deadline for Receipt of Proposals / Proposal Due Date | **12:00pm** | **April 20, 2026**                        |
 | Proposal Evaluations Start              |                     | **Week of April 13, 2026**                       |
 | Interviews Complete                     |                     | **May 1, 2026**                       |
 | Notice of Intent to Award               |                     | **Week of May 11, 2026**                       |
