@@ -14,7 +14,7 @@ times are Alaska Prevailing Time**.
 
 -   Deadline for receipt of questions at 4:00pm on March 13, 2026
 
--   Deadline for receipt of proposals at 12:00pm on April 13, 2026
+-   Deadline for receipt of proposals at 12:00pm on April 20, 2026
 
 -   Proposal Evaluation Committee complete evaluation week of April 27, 2026
 
